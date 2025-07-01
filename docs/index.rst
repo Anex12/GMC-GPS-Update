@@ -4,7 +4,7 @@ How to Update GMC Update: Step By Step Guide
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-.. image:: 
+.. image:: update.jfif
    :alt: My Project Logo
    :width: 350px
    :align: center
