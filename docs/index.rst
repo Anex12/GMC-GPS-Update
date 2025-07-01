@@ -1,4 +1,4 @@
-How to Update GMC Update: Step By Step Guide 
+How to Update GMC GPS: Step By Step Guide 
 ============================================
 
 .. toctree::
